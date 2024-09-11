@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ola</h1>
+<!--<h1 align="center">Hi 👋, I'm Ola</h1>
 <h3 align="center">A passionate software developer</h3>
-
+-->
 <h2 align="left">Languages and Tools:</h2>
 
 <h3>Frequently Used:</h3>
