@@ -56,7 +56,7 @@
   <li><strong>Polish:</strong> Native speaker</li>
   <li><strong>English:</strong> Quite fluent in reading technical documentation, watching videos, and following detailed content</li>
   <li><strong>German:</strong> Learned in secondary school, basic understanding, though not used recently</li>
-  <li><strong>Japanese:</strong> Able to understand simple videos and basic content, hobbyist level</li>
+  <li><strong>Japanese:</strong> Able to understand simple videos (anime), hobbyist level</li>
 </ul>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ola191&show_icons=true&locale=en&layout=compact" alt="ola191" height="150px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="148px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ola191&" alt="ola191" /></p>
