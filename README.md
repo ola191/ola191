@@ -59,4 +59,6 @@
   <li><strong>Japanese:</strong> Able to understand simple videos (anime), hobbyist level</li>
 </ul>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ola191&show_icons=true&locale=en&layout=compact" alt="ola191" height="150px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="148px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ola191&" alt="ola191" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ola191&show_icons=true&locale=en&layout=compact" alt="ola191" height="150px" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+<!--<img height="148px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ola191&" alt="ola191" />-->
